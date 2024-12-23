@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error involving the `IsEmpty` function in VBScript.  The `IsEmpty` function in VBScript can behave unexpectedly when dealing with Variants that might contain null values or empty strings, leading to unexpected program behavior. The example shows how this can occur and presents a more robust solution.
